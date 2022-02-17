@@ -1,0 +1,4 @@
+staged 
+unstaged
+untracked
+tracked
